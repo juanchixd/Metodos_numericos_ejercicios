@@ -1,3 +1,8 @@
+%{
+Ejercicio: Error_Ej1
+Author: Juan Gonzalez
+juangonzalez.com.ar
+%}
 % f = 1./(1+2*x)-(1-x)./(1+x);
 
 % a) Tenemos que puede se inexacto cerca de x = 0 porque tenemos

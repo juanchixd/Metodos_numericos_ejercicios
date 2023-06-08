@@ -1,3 +1,8 @@
+%{
+Ejercicio: Intro_Ej8
+Author: Juan Gonzalez
+juangonzalez.com.ar
+%}
 %Defino el intervalo
 x = 0.1:1/100:3;
 %Defino funciones

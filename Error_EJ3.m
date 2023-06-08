@@ -1,3 +1,8 @@
+%{
+Ejercicio: Error_Ej3
+Author: Juan Gonzalez
+juangonzalez.com.ar
+%}
 % Usando la aritmética de 4 dígitos y redondeo por truncamiento tenemos la
 % ecuación 0.1000*10^1*x^2 - 0.4000*10^2*x + 0.2500*10^0 = 0. 
 % a) Haciendo la cuenta a mano se obtiene x1 = 0.7998*10^2 y x2 =

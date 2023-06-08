@@ -1,3 +1,8 @@
+%{
+Ejercicio: Error_Ej7
+Author: Juan Gonzalez
+juangonzalez.com.ar
+%}
 %% a)
 fprintf("Serie seno en x=pi/4 con tolerancia = 5e^-9\n")
 result = SerieSeno(pi/4, 5*exp(-9));

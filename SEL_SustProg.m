@@ -1,3 +1,8 @@
+%{
+Ejercicio: SEL_Ej03
+Author: Juan Gonzalez
+juangonzalez.com.ar
+%}
 % IN: A: matriz triangular inferior nxn
 %     b: vector nx1
 % OUT: x: vector solución nx1

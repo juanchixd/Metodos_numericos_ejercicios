@@ -1,3 +1,8 @@
+%{
+Ejercicio: Error_Ej4
+Author: Juan Gonzalez
+juangonzalez.com.ar
+%}
 % x^2 - 10000000.000001x + 1 = 0
 %a) Usar cuad.m para obtener las raices
 fprintf("Usando Cuad_A.m\n")

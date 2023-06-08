@@ -1,3 +1,8 @@
+%{
+Ejercicio: SEL_Ej05
+Author: Juan Gonzalez
+juangonzalez.com.ar
+%}
 A1 = [4 1; 12 2];
 A2 = [0 1 1; -1 2 -4; 2 -5 1];
 A3 = [eps 1; 0 1];

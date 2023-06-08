@@ -1,3 +1,8 @@
+%{
+Ejercicio: Intro_Ej9
+Author: Juan Gonzalez
+juangonzalez.com.ar
+%}
 %Defino el vector de los coef del pol
 pol = [1 0 0 3 0 -2];
 %Defino los intervalos

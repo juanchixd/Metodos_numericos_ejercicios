@@ -1,3 +1,8 @@
+%{
+Ejercicio: Intro_Ej10
+Author: Juan Gonzalez
+juangonzalez.com.ar
+%}
 %% a) con surf
 %Defino intervalos (a mas chico sea el numero del medio, mas suave sera la
 %grafica)

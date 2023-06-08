@@ -1,3 +1,8 @@
+%{
+Ejercicio: SEL_Ej03
+Author: Juan Gonzalez
+juangonzalez.com.ar
+%}
 % IN: A: matriz diagonal superior de orden nxn
 %     b: vector columna nx1
 % OUT: x: vector columna nx1

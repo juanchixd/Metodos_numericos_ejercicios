@@ -1,3 +1,8 @@
+%{
+Ejercicio: Intro_Ej2
+Author: Juan Gonzalez
+juangonzalez.com.ar
+%}
 %Ejercicio 2
 a = [ 1, 5, -1];
 b = 3:-2:-2;

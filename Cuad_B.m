@@ -1,3 +1,8 @@
+%{
+Ejercicio: Cuad_B
+Author: Juan Gonzalez
+juangonzalez.com.ar
+%}
 % In: coef de pol grado 2
 % Out: raices del pol
 function [roots] = Cuad_B(coef)

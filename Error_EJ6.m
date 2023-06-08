@@ -1,3 +1,8 @@
+%{
+Ejercicio: Error_Ej6
+Author: Juan Gonzalez
+juangonzalez.com.ar
+%}
 %% 
 % a) Calcular en forma exacta sen(pi/2 + 2*pi*10^j) con j > 0. Por
 % identidades trigonometricas, sen(a+b) = sen(a)*cos(b)+cos(a)*sen(b)

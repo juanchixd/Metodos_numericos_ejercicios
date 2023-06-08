@@ -1,3 +1,8 @@
+%{
+Ejercicio: SEL_Ej02
+Author: Juan Gonzalez
+juangonzalez.com.ar
+%}
 A = [17 5; 1.7 0.5];
 b = [22 2.2]';
 

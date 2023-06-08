@@ -1,3 +1,8 @@
+%{
+Ejercicio: Intro_Ej1
+Author: Juan Gonzalez
+juangonzalez.com.ar
+%}
 % Ejercicio 1
 v = [5; 0; 4; 5; -2; 1; 7];
 x = [4, 1];

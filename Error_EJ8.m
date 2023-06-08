@@ -1,3 +1,8 @@
+%{
+Ejercicio: Error_Ej8
+Author: Juan Gonzalez
+juangonzalez.com.ar
+%}
 % Usar SerieSeno.m graficar el error total cometido para x E [0,pi/2]
 % usando 6 y 15 terminos no nulos del pol de Taylor del sen(x)
 % respectivamente.

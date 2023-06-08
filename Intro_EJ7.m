@@ -1,3 +1,8 @@
+%{
+Ejercicio: Intro_Ej7
+Author: Juan Gonzalez
+juangonzalez.com.ar
+%}
 %% Parte a
 
 x = -3:1/100:3;

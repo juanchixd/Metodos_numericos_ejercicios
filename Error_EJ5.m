@@ -1,3 +1,8 @@
+%{
+Ejercicio: Error_Ej5
+Author: Juan Gonzalez
+juangonzalez.com.ar
+%}
 %% Caso X=1
 fprintf(" Caso X = 1 n = 10\n")
 TaylorExp(1, 10);

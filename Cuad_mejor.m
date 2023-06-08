@@ -1,3 +1,8 @@
+%{
+Ejercicio: Cuad_mejor
+Author: Juan Gonzalez
+juangonzalez.com.ar
+%}
 % Cuad_mejor
 % Calcular las raices de una ecu cuadratica
 % In: coef vector fila
