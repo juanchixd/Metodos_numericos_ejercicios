@@ -11,7 +11,7 @@ function np = normap(x,p)
 if p == inf
     np = max(abs(x));
 else	
-    np = (sum(abs(x).^p))^(1/p);
+    np = (sum(abs(x).^p)).^(1/p);
 end
 end
 

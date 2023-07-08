@@ -1,4 +1,4 @@
-function [x,iter] = Jacobi(A,b,x0,tol,itmax)
+function [x,iter] = Jacobi_residuo(A,b,x0,tol,itmax)
 % Metodo iterativo de Jacobi
 % A     : matriz invertible nxn 
 % b     : lado derecho nx1
@@ -30,10 +30,11 @@ while 1
       end
       x(i) = x(i) / A(i,i);
    end
+
+   res = norm(b - A*x');
+   %err = normap(x-x0,2);
    
-   err = normap(x-x0,2);
-   
-   if err < tol
+   if res < tol
        disp('Tolerancia alcanzada.')
        x=x';  break
    end

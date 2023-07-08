@@ -1,4 +1,4 @@
-function [x,iter] = Jacobi(A,b,x0,tol,itmax)
+function [x,iter] = Jacobi_mod(A,b,x0,tol,itmax)
 % Metodo iterativo de Jacobi
 % A     : matriz invertible nxn 
 % b     : lado derecho nx1
@@ -32,7 +32,10 @@ while 1
    end
    
    err = normap(x-x0,2);
-   
+   % Mostrar en cada paso
+   T = table(iter, x, err, 'VariableNames', {'Iteracion', 'Aproximacion', 'Error'});
+   disp(T)
+
    if err < tol
        disp('Tolerancia alcanzada.')
        x=x';  break

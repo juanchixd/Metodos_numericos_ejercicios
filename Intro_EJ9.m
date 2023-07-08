@@ -24,4 +24,4 @@ for i=y
     j = j + 1;
 end
 %Grafico
-plot(x, value, 'r', y, value_y, 'b*'), grid on
+plot(x, value, 'r', y, value_y, 'b'), grid on
